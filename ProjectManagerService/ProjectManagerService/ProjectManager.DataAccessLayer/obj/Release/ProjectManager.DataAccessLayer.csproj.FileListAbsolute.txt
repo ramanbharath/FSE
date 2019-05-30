@@ -1,0 +1,10 @@
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.dll.config
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\ProjectManager.DataAccessLayer.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.xml
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.DataAccessLayer\obj\Release\ProjectManager.DataAccessLayer.pdb

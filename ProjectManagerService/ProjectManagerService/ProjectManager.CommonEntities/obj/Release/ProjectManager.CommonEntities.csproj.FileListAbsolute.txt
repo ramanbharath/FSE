@@ -1,0 +1,5 @@
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\bin\Release\ProjectManager.CommonEntities.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\bin\Release\ProjectManager.CommonEntities.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Release\ProjectManager.CommonEntities.csprojResolveAssemblyReference.cache
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Release\ProjectManager.CommonEntities.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Release\ProjectManager.CommonEntities.pdb

@@ -1,0 +1,7 @@
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.csprojResolveAssemblyReference.cache
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.pdb

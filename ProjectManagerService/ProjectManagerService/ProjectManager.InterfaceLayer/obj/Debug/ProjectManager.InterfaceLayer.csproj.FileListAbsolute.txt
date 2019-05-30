@@ -1,0 +1,28 @@
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.csprojResolveAssemblyReference.cache
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.InterfaceLayer.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.InterfaceLayer.pdb
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.pdb
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.CommonEntities.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.CommonEntities.pdb
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.InterfaceLayer.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.InterfaceLayer.pdb
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.CommonEntities.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.CommonEntities.pdb
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.csprojResolveAssemblyReference.cache
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.pdb
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.InterfaceLayer.dll
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.InterfaceLayer.pdb
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.CommonEntities.dll
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.CommonEntities.pdb
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.dll
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.pdb
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.InterfaceLayer.dll
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.InterfaceLayer.pdb
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.CommonEntities.dll
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Debug\ProjectManager.CommonEntities.pdb
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.dll
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Debug\ProjectManager.InterfaceLayer.pdb

@@ -1,0 +1,68 @@
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll.config
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.pdb
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.CommonEntities.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.InterfaceLayer.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.CommonEntities.pdb
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.pdb
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.dll.config
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.InterfaceLayer.pdb
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.xml
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.csprojResolveAssemblyReference.cache
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.pdb
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll.config
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.pdb
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.CommonEntities.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.InterfaceLayer.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.CommonEntities.pdb
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.pdb
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.dll.config
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.InterfaceLayer.pdb
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll.config
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.pdb
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.CommonEntities.dll
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.dll
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.InterfaceLayer.dll
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.CommonEntities.pdb
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.pdb
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.dll.config
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.InterfaceLayer.pdb
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.dll
+C:\Users\Admin\Desktop\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.pdb
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll.config
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.dll
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.BusinessLayer.pdb
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.CommonEntities.dll
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.dll
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.InterfaceLayer.dll
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.CommonEntities.pdb
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.pdb
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.DataAccessLayer.dll.config
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\ProjectManager.InterfaceLayer.pdb
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.dll
+C:\Bharath\Projects\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Debug\ProjectManager.BusinessLayer.pdb

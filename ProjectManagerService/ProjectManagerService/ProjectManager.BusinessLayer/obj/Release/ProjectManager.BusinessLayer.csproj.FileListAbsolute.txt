@@ -1,0 +1,17 @@
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\ProjectManager.BusinessLayer.dll.config
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\ProjectManager.BusinessLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\ProjectManager.BusinessLayer.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\EntityFramework.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\ProjectManager.CommonEntities.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\ProjectManager.DataAccessLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\ProjectManager.InterfaceLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\ProjectManager.CommonEntities.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\ProjectManager.DataAccessLayer.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\ProjectManager.DataAccessLayer.dll.config
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\ProjectManager.InterfaceLayer.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\EntityFramework.xml
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Release\ProjectManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Release\ProjectManager.BusinessLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.BusinessLayer\obj\Release\ProjectManager.BusinessLayer.pdb
